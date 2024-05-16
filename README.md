@@ -3,7 +3,7 @@
 Meu nome é Matheus Arcangelo
 
 
-° Estou estudando na Alura
+<p>° Estou estudando na Alura</p>
 
 
 ° Estou me desenvolvendo na linguagem JavaScript
